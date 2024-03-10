@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>EREECA'S TOUR</title>
+<meta charset=”UTF-8″>
+<meta name=”viewport” content=”width=device-width, initial-scale=1.0″>
+<style>
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+}
+header {
+background-color: #333;
+color: #fff;
+padding: 10px;
+text-align: center;
+}
+nav {
+background-color: #eee;
+padding: 10px;
+text-align: center;
+}
+nav a {
+color: #333;
+display: inline-block;
+margin: 0 10px;
+text-decoration: none;
+}
+main {
+margin: 10px;
+padding: 10px;
+}
+h1 {
+font-size: 36px;
+margin-bottom: 20px;
+text-align: center;
+}
+p {
+line-height: 1.5;
+margin-bottom: 20px;
+text-align: justify;
+}
+footer {
+background-color: #333;
+color: #fff;
+padding: 10px;
+text-align: center;
+}
+</style>
+</head>
+<body>
+<header>
+<h1>EREECA'S TOUR</h1>
+</header>
+<nav>
+<a href="file:///C:/taymaa%20daoud/home.html">HOME</a>
+<a href="file:///C:/taymaa%20daoud/about.html">ABOUT</a>
+<a href="file:///C:/taymaa%20daoud/contect%20%20me.html">CONTACT ME</a>
+<a href="file:///C:/taymaa%20daoud/trip%20and%20adventures.html">TRIPS&ADVENTURES</a>
+</nav>
+<right-side><img src="C:\Users\User\Downloads\Reisebüro Ferien Logo  (3).png" width="150" height="150"></right-side>
+<main>
+<center><h2>New Zealand</h2></center>
+<img src="C:\taymaa daoud\نيوزيليند علم.png" width="400" height="250">
+<p>The country's flag is largely the thing that comes to people's minds first when talking about the country, </p>
+<p>to inspire them before anything else. The design of the New Zealand flag is similar to its British and Australian counterparts in many cases,</p>
+<p>and due to its blue background, the New Zealand flag is called the Blue Ensign Flag, and on its blue background there is The Southern Cross constellation is decorated to the right of the Union Jack.</p>
+<p>This constellation can only be observed in the Southern Hemisphere. The cross on the New Zealand flag has only four stars,</p>
+<p>while its Australian counterpart has six. The red color of the Southern Cross stars is used as part of the Cross of St.</p>
+<p>The George and Saint Patrick's Cross used in the Union Jack, the color white is used next to the stars of the Southern Cross, and is also included inside the Union Jack</p>
+<img src="C:\taymaa daoud\نيوزيليند.jfif" width="400" height="250">
+<p>The island of New Zealand consists of two main islands: the South Island and the North Island, and a number of small islands,</p>
+<p> including Stewart Island, Rakiura, Great Barrier Island, Waiheke Island, and the Chatham Islands.</p>
+<p>They are located on the western side of the Pacific Ocean, in the waters of the Northern Hemisphere.</p>
+<p> The two islands are separated by a strait called It bears the name of Cook, and two climates prevail there, a semi-arid climate and a humid climate.</p>
+
+</main>
+<footer>
+
+</footer>
+</body>
+</html>

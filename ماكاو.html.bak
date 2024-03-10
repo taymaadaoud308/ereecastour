@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>EREECA'S TOUR</title>
+<meta charset=”UTF-8″>
+<meta name=”viewport” content=”width=device-width, initial-scale=1.0″>
+<style>
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+}
+header {
+background-color: #333;
+color: #fff;
+padding: 10px;
+text-align: center;
+}
+nav {
+background-color: #eee;
+padding: 10px;
+text-align: center;
+}
+nav a {
+color: #333;
+display: inline-block;
+margin: 0 10px;
+text-decoration: none;
+}
+main {
+margin: 10px;
+padding: 10px;
+}
+h1 {
+font-size: 36px;
+margin-bottom: 20px;
+text-align: center;
+}
+p {
+line-height: 1.5;
+margin-bottom: 20px;
+text-align: justify;
+}
+footer {
+background-color: #333;
+color: #fff;
+padding: 10px;
+text-align: center;
+}
+</style>
+</head>
+<body>
+<header>
+<h1>EREECA'S TOUR</h1>
+</header>
+<nav>
+<a href="file:///C:/taymaa%20daoud/home.html">HOME</a>
+<a href="file:///C:/taymaa%20daoud/about.html">ABOUT</a>
+<a href="file:///C:/taymaa%20daoud/contect%20%20me.html">CONTACT ME</a>
+<a href="file:///C:/taymaa%20daoud/trip%20and%20adventures.html">TRIPS&ADVENTURES</a>
+</nav>
+<right-side><img src="C:\Users\User\Downloads\Reisebüro Ferien Logo  (3).png" width="150" height="150"></right-side>
+<main>
+<center><h2>Macau</h2></center>
+<img src="C:\taymaa daoud\علم ماكاو.png" width="400" height="250">
+<p>The flag of Macau consists of a stylized white lotus flower (the symbol of the city) above a wide white line (representing the Macau-Taipa Bridge)</p>
+<p>and 4 white lines (representing water, which symbolizes Macau being an important port) on a light green background.</p>
+<p> Above the flower there are 5 golden stars, the third being the largest (representing Macau’s affiliation with the mother country, China), as the Chinese flag also includes stars.</p>
+<p> The flag was used after Portugal returned the colony of Macau to the mother country, China, in 1999.</p>
+<img src="C:\taymaa daoud\ماكاو.jfif" width="400" height="250">
+<p>This country is located approximately 60 kilometers southwest of Hong Kong, and is separated from Guangzhou by approximately 145 kilometers.</p>
+ <p>Macau includes: the Macau Peninsula, Taipa Island, and Colony Island.</p>
+<p> The peninsula is bordered by the Pearl River Creek to the east and the Zhejiang to the west,</p>
+<p> and the Macau Peninsula was a separate island, but the accumulation and accumulation of sand on the banks of the rivers led to the formation of some isthmuses that reached the island through</p>
+<p> the Chinese mainland, where the borders of Macau are connected to the Chinese city of Zhuhai, and its most distinctive feature is the Alto dei Coloni peak. It is considered the highest peak in Macau,</p>
+<p>reaching a height of approximately 170.6 metres. This country is devoid of forests and jungles as a result of urban expansion.</p>
+
+</main>
+<footer>
+
+</footer>
+</body>
+</html>

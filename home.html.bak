@@ -1,0 +1,72 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>EREECA'S TOUR</title>
+<meta charset=”UTF-8″>
+<meta name=”viewport” content=”width=device-width, initial-scale=1.0″>
+<style>
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+}
+header {
+background-color: #333;
+color: #fff;
+padding: 10px;
+text-align: center;
+}
+nav {
+background-color: #eee;
+padding: 10px;
+text-align: center;
+}
+nav a {
+color: #333;
+display: inline-block;
+margin: 0 10px;
+text-decoration: none;
+}
+main {
+margin: 10px;
+padding: 10px;
+}
+h1 {
+font-size: 36px;
+margin-bottom: 20px;
+text-align: center;
+}
+p {
+line-height: 1.5;
+margin-bottom: 20px;
+text-align: justify;
+}
+footer {
+background-color: #333;
+color: #fff;
+padding: 10px;
+text-align: center;
+}
+</style>
+</head>
+<body>
+<header>
+<h1>EREECA'S TOUR</h1>
+</header>
+<nav>
+<a href="file:///C:/taymaa%20daoud/home.html">HOME</a>
+<a href="file:///C:/taymaa%20daoud/about.html">ABOUT</a>
+<a href="file:///C:/taymaa%20daoud/contect%20%20me.html">CONTACT ME</a>
+<a href="file:///C:/taymaa%20daoud/trip%20and%20adventures.html">TRIPS&ADVENTURES</a>
+</nav>
+<right-side><img src="C:\taymaa daoud\Reisebüro Ferien Logo  (3).png" width="150" height="150"></right-side>
+ <center><img src="C:\taymaa daoud\سفر.jpg" width="1200" height="700"></center>
+ 
+
+
+<footer>
+
+</footer>
+</body>
+</html>
